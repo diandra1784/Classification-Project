@@ -1,4 +1,4 @@
-# Classification Project
+# Classification Project 
 
 This project utilizes three different classification algorithms—Logistic Regression, Random Forest, and Decision Tree—to predict whether a patient is depressed based on their medical and psychological data.
 
